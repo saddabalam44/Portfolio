@@ -1,6 +1,6 @@
 # Saddab Alam - Professional Portfolio
 
-A modern, responsive, and eye-catching portfolio website showcasing my skills, projects, and experience.
+
 
 ## 🌟 Features
 
@@ -156,4 +156,5 @@ This portfolio is created by Saddab Alam. Feel free to use it as inspiration for
 
 **Built with passion and creativity** 🚀
 
-© 2025 Saddab Alam. All rights reserved.
+© 2025 Saddab Alam. 
+
